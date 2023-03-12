@@ -1,4 +1,4 @@
-# COSMØSTAKE supports next IBC-Relayers:
+## COSMØSTAKE SUPPORTS NEXT IBC-RELAYERRS:
 
 - [Persistence channel-67](https://www.mintscan.io/persistence/account/persistence1quylzmjgq8crgh8fnqmj48jp8mxlzyhszyrkn9) <> [Stride channel-53](https://www.mintscan.io/stride/account/stride1z9vqynvye6dch4qpz404n9e2nma7v6a3pkww0e)
 
