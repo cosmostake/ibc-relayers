@@ -11,7 +11,7 @@
 
 - [Persistence channel-6](https://www.mintscan.io/persistence/account/persistence1quylzmjgq8crgh8fnqmj48jp8mxlzyhszyrkn9) <> [Osmosis channel-4](https://www.mintscan.io/osmosis/account/osmo16wtdntpcal8zldu0k3eltqn26pchd8csrtv7tk)
 
-- [Persistence channel-81](https://www.mintscan.io/persistence/account/persistence1quylzmjgq8crgh8fnqmj48jp8mxlzyhszyrkn9) <> - [Umee channel-51](https://www.mintscan.io/umee/account/umee1tgsgcg9l87n6dl0l0rnm7g2slx6xgjlk7laydh)
+- [Persistence channel-81](https://www.mintscan.io/persistence/account/persistence1quylzmjgq8crgh8fnqmj48jp8mxlzyhszyrkn9) <> [Umee channel-51](https://www.mintscan.io/umee/account/umee1tgsgcg9l87n6dl0l0rnm7g2slx6xgjlk7laydh)
 
 - [Osmosis channel-229](https://www.mintscan.io/osmosis/account/osmo16wtdntpcal8zldu0k3eltqn26pchd8csrtv7tk) <> [Fetch.ai channel-10](https://www.mintscan.io/fetchai/account/fetch1xq07dgza58ufkhf0fdqs9ses89pfns3vvcuf4u)
 
