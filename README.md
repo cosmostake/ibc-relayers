@@ -1,7 +1,7 @@
 ![Git Banner](https://user-images.githubusercontent.com/123416278/224935503-108a5810-37b5-42ff-9417-0785a0697c48.png)
 
 
-## COSMØSTAKE SUPPORTS NEXT IBC-RELAYERS:
+## COSMØSTAKE SUPPORTS IBC-RELAYERS:
 
 - [Persistence channel-73](https://www.mintscan.io/persistence/account/persistence1quylzmjgq8crgh8fnqmj48jp8mxlzyhszyrkn9) <> [Quicksilver channel-16](https://www.mintscan.io/quicksilver/account/quick1wpxuxc2765wkhfkxt323dza0l8r8h53mp3pyh8)
 
