@@ -28,3 +28,5 @@
 - [Juno channel-139](https://www.mintscan.io/juno/account/juno1p9u4glx4sjcx863xxvj05n8zdrzzhd7h5s63kp) <> [Stride channel-24](https://www.mintscan.io/stride/account/stride1z9vqynvye6dch4qpz404n9e2nma7v6a3pkww0e)
 
 - [Kichain channel-0](https://www.mintscan.io/ki-chain/address/ki1fxlpzhumwz9pmslydr9f2y7v7j20nsdtmq5xp4) <> [Osmosis channel-77](https://www.mintscan.io/osmosis/account/osmo16wtdntpcal8zldu0k3eltqn26pchd8csrtv7tk)
+
+- [Kichain channel-8](https://www.mintscan.io/ki-chain/address/ki1fxlpzhumwz9pmslydr9f2y7v7j20nsdtmq5xp4) <> [Juno channel-58](https://www.mintscan.io/juno/account/juno1p9u4glx4sjcx863xxvj05n8zdrzzhd7h5s63kp)
